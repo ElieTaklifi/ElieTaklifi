@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 Freshly graduated from a BSc in Computer Science & CyberSec<br>👨🏽‍💻 Full-Stack develloper at the day<br>🕵🏽‍♂️ Penetration Tester at night <br>🔭 always working on my skills in the Security filed<br>👯 I’m looking to collaborate as an Full-Stack or AppSec <br>💬 Ask me about 
+🌱 Freshly graduated from a BSc in Computer Science & CyberSec<br>👨🏽‍💻 Learning Full-Stack devellopement at the day<br>🕵🏽‍♂️ Learning Penetration Testing at night <br>🔭 Always working on my skills in the Security filed<br>👯 I’m looking to collaborate as an Full-Stack develloper or AppSec engineer <br> 💬 Ask me about anything would love to help you
 
 
 ## 🌐 Socials:
