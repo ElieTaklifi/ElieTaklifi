@@ -1,6 +1,3 @@
-Based on this resume and on this readme on GitHub
-Can you update the ReadMe on GitHub to share my updated skils ?
-
 # 💫 About Me:
 👨🏽‍💻 Cyber Security Engineer & Threat Researcher with 5+ years of hands-on experience. 🌱 BSc in Computer Science & Cyber Security. 🛡️ Specialized in Detection Engineering, Malware Analysis, and Windows Internals. 🔍 Focused on endpoint telemetry, threat hunting, forensics & adversary simulation. 🧪 Building tools in Python / C / C++ for security automation and research. 💬 Always happy to help—ask me anything!
 
